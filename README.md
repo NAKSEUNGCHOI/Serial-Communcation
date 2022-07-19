@@ -6,7 +6,7 @@
 
 ## Description
 
-Serial Communcation between Arduino and python.
+Serial Communcation between Arduino and Pi3.
 
 ## Getting Started
 
